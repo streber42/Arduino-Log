@@ -38,7 +38,7 @@ typedef void (*printfunction)(Print*);
 #define LOG_LEVEL_TRACE   5
 #define LOG_LEVEL_VERBOSE 6
 
-#define CR "\n"
+#define A_L_CR "\n"
 #define LOGGING_VERSION 1_0_3
 
 /**
